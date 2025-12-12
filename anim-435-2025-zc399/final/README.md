@@ -63,7 +63,7 @@ Click Build Rig
 
 (Optional) Click Bind to skin geometry to the rig
 
-##Workflow Summary
+## Workflow Summary
 Select Geometry
       ↓
 Create Group
@@ -87,7 +87,7 @@ Minimal user error
 
 Pipeline safety across multiple machines
 
-##Contributing
+## Contributing
 
 This project is intended for educational and pipeline-training purposes.
 Contributions should prioritize:
@@ -100,6 +100,6 @@ Non-destructive workflows
 
 Explicit logging
 
-##License
+## License
 
 This project is released under the standard GitHub open-source license.
