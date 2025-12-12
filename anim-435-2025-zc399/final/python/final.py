@@ -18,7 +18,6 @@ import os
 import maya.cmds as cmds
 import argparse
 import maya.standalone
-import maya.cmds as cmds
 import logging
 
 #Activate Maya Standalone#######
