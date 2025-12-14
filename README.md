@@ -101,5 +101,3 @@ Non-destructive workflows
 Explicit logging
 
 ## License
-
-This project is released under the standard GitHub open-source license.
