@@ -1,4 +1,4 @@
-## Title: Final No. 1 Prop Rig Generating Tool (procedural prop generation based on environment variables.) 
+##  Final No. 1 Prop Rig Generating Tool (procedural prop generation based on environment variables.) 
 
 
   This tool is a procedural prop rig set up designed to bridge git and Autodesk Maya. It assists rigging teams in rapidly preparing consistent prop structures before assets are imported into game engine. 
